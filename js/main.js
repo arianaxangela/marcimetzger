@@ -11,7 +11,6 @@ window.addEventListener('scroll', () => {
     });
 });
 
-// Mobile menu toggle
 menuBtn.addEventListener('click', () => {
     nav.classList.toggle('active');
 });
